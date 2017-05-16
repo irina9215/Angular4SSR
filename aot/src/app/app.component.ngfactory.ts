@@ -55,8 +55,8 @@ export function View_AppComponent_0(l:any):import1.ɵViewDefinition {
     },(null as any),(null as any))),
     (l()(),import1.ɵted((null as any),['Toggle Heading'])),
     (l()(),import1.ɵted((null as any),['\n'])),
-    (l()(),import1.ɵand(8388608,(null as any),(null as any),1,(null as any),View_AppComponent_1)),
-    import1.ɵdid(8192,(null as any),0,import3.NgIf,[
+    (l()(),import1.ɵand(16777216,(null as any),(null as any),1,(null as any),View_AppComponent_1)),
+    import1.ɵdid(16384,(null as any),0,import3.NgIf,[
       import1.ViewContainerRef,
       import1.TemplateRef
     ]
@@ -69,8 +69,8 @@ export function View_AppComponent_0(l:any):import1.ɵViewDefinition {
     (l()(),import1.ɵeld(0,(null as any),(null as any),1,'h3',([] as any[]),(null as any),(null as any),(null as any),(null as any),(null as any))),
     (l()(),import1.ɵted((null as any),['List of Heroes'])),
     (l()(),import1.ɵted((null as any),['\n'])),
-    (l()(),import1.ɵand(8388608,(null as any),(null as any),1,(null as any),View_AppComponent_2)),
-    import1.ɵdid(401408,(null as any),0,import3.NgForOf,[
+    (l()(),import1.ɵand(16777216,(null as any),(null as any),1,(null as any),View_AppComponent_2)),
+    import1.ɵdid(802816,(null as any),0,import3.NgForOf,[
       import1.ViewContainerRef,
       import1.TemplateRef,
       import1.IterableDiffers
@@ -93,9 +93,9 @@ export function View_AppComponent_0(l:any):import1.ɵViewDefinition {
 function View_AppComponent_Host_0(l:any):import1.ɵViewDefinition {
   return import1.ɵvid(0,[
     (l()(),import1.ɵeld(0,(null as any),(null as any),1,'app-root',([] as any[]),(null as any),(null as any),(null as any),View_AppComponent_0,RenderType_AppComponent)),
-    import1.ɵdid(24576,(null as any),0,import2.AppComponent,([] as any[]),(null as any),(null as any))
+    import1.ɵdid(49152,(null as any),0,import2.AppComponent,([] as any[]),(null as any),(null as any))
   ]
   ,(null as any),(null as any));
 }
 export const AppComponentNgFactory:import1.ComponentFactory<import2.AppComponent> = import1.ɵccf('app-root',import2.AppComponent,View_AppComponent_Host_0,{},{},([] as any[]));
-//# sourceMappingURL=data:application/json;base64,eyJmaWxlIjoiL1VzZXJzL2lyaW5hX2NybS9Eb2N1bWVudHMvd29ya3NwYWNlL0RlbW8vc3JjL2FwcC9hcHAuY29tcG9uZW50Lm5nZmFjdG9yeS50cyIsInZlcnNpb24iOjMsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIm5nOi8vL1VzZXJzL2lyaW5hX2NybS9Eb2N1bWVudHMvd29ya3NwYWNlL0RlbW8vc3JjL2FwcC9hcHAuY29tcG9uZW50LnRzIiwibmc6Ly8vVXNlcnMvaXJpbmFfY3JtL0RvY3VtZW50cy93b3Jrc3BhY2UvRGVtby9zcmMvYXBwL2FwcC5jb21wb25lbnQuaHRtbCIsIm5nOi8vL1VzZXJzL2lyaW5hX2NybS9Eb2N1bWVudHMvd29ya3NwYWNlL0RlbW8vc3JjL2FwcC9hcHAuY29tcG9uZW50LnRzLkFwcENvbXBvbmVudF9Ib3N0Lmh0bWwiXSwic291cmNlc0NvbnRlbnQiOlsiICIsIjxidXR0b24gKGNsaWNrKT1cInRvZ2dsZUhlYWRpbmcoKVwiPlRvZ2dsZSBIZWFkaW5nPC9idXR0b24+XG48aDEgKm5nSWY9XCJzaG93SGVhZGluZ1wiPkhlbGxvIEFuZ3VsYXI8L2gxPlxuXG48aDM+TGlzdCBvZiBIZXJvZXM8L2gzPlxuPGRpdiAqbmdGb3I9XCJsZXQgaGVybyBvZiBoZXJvZXNcIj57e2hlcm99fTwvZGl2PlxuIiwiPGFwcC1yb290PjwvYXBwLXJvb3Q+Il0sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0lDQ0E7SUFBd0I7Ozs7OztJQUd4QjtJQUFpQztNQUFBO01BQUE7SUFBQTtJQUFBOzs7SUFBQTtJQUFBOzs7OztNQUpqQztRQUFBO1FBQUE7TUFBQTtJQUFBO01BQUE7TUFBQTtNQUFRO1FBQUE7UUFBQTtNQUFBO01BQVI7SUFBQTtJQUFrQztJQUF1QjtJQUN6RDtnQkFBQTs7O0lBQUE7T0FBQTtRQUFBO1FBQUE7TUFBQTtJQUFBO0lBQTBDO0lBRTFDO0lBQUk7SUFBbUI7SUFDdkI7Z0JBQUE7Ozs7SUFBQTtPQUFBO1FBQUE7UUFBQTtNQUFBO0lBQUE7SUFBK0M7Ozs7SUFIM0M7SUFBSixTQUFJLFNBQUo7SUFHSztJQUFMLFVBQUssU0FBTDs7Ozs7SUNKQTtnQkFBQTs7OzsifQ==
+//# sourceMappingURL=data:application/json;base64,eyJmaWxlIjoiL1VzZXJzL2lyaW5hX2NybS9Eb2N1bWVudHMvd29ya3NwYWNlL0FuZ3VsYXI0U1NSL3NyYy9hcHAvYXBwLmNvbXBvbmVudC5uZ2ZhY3RvcnkudHMiLCJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJuZzovLy9Vc2Vycy9pcmluYV9jcm0vRG9jdW1lbnRzL3dvcmtzcGFjZS9Bbmd1bGFyNFNTUi9zcmMvYXBwL2FwcC5jb21wb25lbnQudHMiLCJuZzovLy9Vc2Vycy9pcmluYV9jcm0vRG9jdW1lbnRzL3dvcmtzcGFjZS9Bbmd1bGFyNFNTUi9zcmMvYXBwL2FwcC5jb21wb25lbnQuaHRtbCIsIm5nOi8vL1VzZXJzL2lyaW5hX2NybS9Eb2N1bWVudHMvd29ya3NwYWNlL0FuZ3VsYXI0U1NSL3NyYy9hcHAvYXBwLmNvbXBvbmVudC50cy5BcHBDb21wb25lbnRfSG9zdC5odG1sIl0sInNvdXJjZXNDb250ZW50IjpbIiAiLCI8YnV0dG9uIChjbGljayk9XCJ0b2dnbGVIZWFkaW5nKClcIj5Ub2dnbGUgSGVhZGluZzwvYnV0dG9uPlxuPGgxICpuZ0lmPVwic2hvd0hlYWRpbmdcIj5IZWxsbyBBbmd1bGFyPC9oMT5cblxuPGgzPkxpc3Qgb2YgSGVyb2VzPC9oMz5cbjxkaXYgKm5nRm9yPVwibGV0IGhlcm8gb2YgaGVyb2VzXCI+e3toZXJvfX08L2Rpdj5cbiIsIjxhcHAtcm9vdD48L2FwcC1yb290PiJdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztJQ0NBO0lBQXdCOzs7Ozs7SUFHeEI7SUFBaUM7TUFBQTtNQUFBO0lBQUE7SUFBQTs7O0lBQUE7SUFBQTs7Ozs7TUFKakM7UUFBQTtRQUFBO01BQUE7SUFBQTtNQUFBO01BQUE7TUFBUTtRQUFBO1FBQUE7TUFBQTtNQUFSO0lBQUE7SUFBa0M7SUFBdUI7SUFDekQ7Z0JBQUE7OztJQUFBO09BQUE7UUFBQTtRQUFBO01BQUE7SUFBQTtJQUEwQztJQUUxQztJQUFJO0lBQW1CO0lBQ3ZCO2dCQUFBOzs7O0lBQUE7T0FBQTtRQUFBO1FBQUE7TUFBQTtJQUFBO0lBQStDOzs7O0lBSDNDO0lBQUosU0FBSSxTQUFKO0lBR0s7SUFBTCxVQUFLLFNBQUw7Ozs7O0lDSkE7Z0JBQUE7Ozs7In0=

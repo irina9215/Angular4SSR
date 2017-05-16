@@ -21,6 +21,12 @@ Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.gi
 Run `npm run e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `npm start`.
 
+## Run webpack for server side rendering
+
+Run `npm build:all`, After building the application, then you can switch to the dist folder and start the server.
+ `cd dist`
+ `node main.server.bundle.js`
+ available via `http://localhost:8000`
 
 -- AHEAD-OF-TIME COMPILATION
   https://angular.io/docs/ts/latest/cookbook/aot-compiler.html
